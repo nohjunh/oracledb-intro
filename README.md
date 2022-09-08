@@ -1,3 +1,8 @@
 # oracledb-intro
 
-Chap 01 -> https://adventurous-sphere-1c1.notion.site/Oracle-Chap1
+Notion Link -> summarize the key concepts.
+
+chap1)  
+
+       https://adventurous-sphere-1c1.notion.site/Oracle-Chap1
+
