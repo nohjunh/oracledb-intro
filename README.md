@@ -11,4 +11,7 @@ chap1 )
 chap2 )  
 
        https://adventurous-sphere-1c1.notion.site/Oracle-Chap2
+       
+chap3 )  
 
+       https://adventurous-sphere-1c1.notion.site/Oracle-Chap3
