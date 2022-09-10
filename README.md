@@ -1,6 +1,6 @@
 # oracledb-intro
 
-##Notion Link -> summarize the key concepts.
+**Notion Link -> summarize the key concepts.**
 
 https://pewter-sense-c8c.notion.site/c46a34ed3ec2489f912ff874019075b6
 
