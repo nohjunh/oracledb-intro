@@ -20,7 +20,7 @@ chap3 )
        
 chap4 )
      
-       https://adventurous-sphere-1c1.notion.site/Oracle-Chap4
+       https://adventurous-sphere-1c1.notion.site/Oracle-Chap4-b557ed7a2b7149a790ae4197cb6dac8b
 
 chap5 )
 
