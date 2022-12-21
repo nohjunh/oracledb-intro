@@ -27,9 +27,14 @@ chap5 )
        https://adventurous-sphere-1c1.notion.site/Oracle-Chap5-fb40c5a529204295900ec60fe45ce9e5
        
        
-phase 1 quiz concept)
+phase 1 quiz concept )
 
        https://adventurous-sphere-1c1.notion.site/Phans1-quiz-pr-214f2608d4954dedb53b05e0acf9aa9f
 
-phase 3 quize concept)
+phase 3 quize concept )
+
        https://adventurous-sphere-1c1.notion.site/Phase3-Quiz-b1f356adc5334a24a9f62e652102390d
+
+Summary of first half content )
+
+       https://adventurous-sphere-1c1.notion.site/0c97121e25eb4564a7a8560e87347b2d
